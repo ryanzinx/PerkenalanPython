@@ -1,5 +1,6 @@
 # PerkenalanPython
-
+## Source Code
+```python
 #Mengambil input
 nama = ("Adrian Fadhali Wiratama.")
 namapanggilan = ("Ryan.")
@@ -13,3 +14,6 @@ telepon = ("081324610584.")
 print("Let me introduce myself. My name is",nama,"But you can call me",namapanggilan,"My NPM is",npm,
       "I was born in",tempatlahir,"and i'm",umur,"years old.","I am very glad if you want to visit my home at",alamat,
       "So, don't forget to call me before visit me with my number",telepon)
+```
+# ScreenShot
+![ss](perkenalanpython.png)
